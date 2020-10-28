@@ -43,7 +43,7 @@ require './include/check-if-added.php';
 								<?php if(check_if_added_to_cart(1)){ ?>
 									<a href="#" class="btn btn-success" disabled>Added to cart</a>
 								<?php }else{ ?>
-										<a href="cart-add.php?id=1" name="add" value="add" class"btn btn-primary">Add to cart</a>
+										<a href="cart-add.php?id=1" name="add" value="add" class="btn btn-primary">Add to cart</a>
 									<?php }
 								} ?>
 						</div>
@@ -62,7 +62,7 @@ require './include/check-if-added.php';
 								<?php if(check_if_added_to_cart(2)){ ?>
 									<a href="#" class="btn btn-success" disabled>Added to cart</a>
 								<?php }else{ ?>
-										<a href="cart-add.php?id=2" name="add" value="add" class"btn btn-primary">Add to cart</a>
+										<a href="cart-add.php?id=2" name="add" value="add" class="btn btn-primary">Add to cart</a>
 									<?php }
 								} ?>
 						</div>
@@ -81,7 +81,7 @@ require './include/check-if-added.php';
 								<?php if(check_if_added_to_cart(3)){ ?>
 									<a href="#" class="btn btn-success" disabled>Added to cart</a>
 								<?php }else{ ?>
-										<a href="cart-add.php?id=3" name="add" value="add" class"btn btn-primary">Add to cart</a>
+										<a href="cart-add.php?id=3" name="add" value="add" class="btn btn-primary">Add to cart</a>
 									<?php }
 								} ?>
 						</div>
@@ -100,7 +100,7 @@ require './include/check-if-added.php';
 								<?php if(check_if_added_to_cart(4)){ ?>
 									<a href="#" class="btn btn-success" disabled>Added to cart</a>
 								<?php }else{ ?>
-										<a href="cart-add.php?id=4" name="add" value="add" class"btn btn-primary">Add to cart</a>
+										<a href="cart-add.php?id=4" name="add" value="add" class="btn btn-primary">Add to cart</a>
 									<?php }
 								} ?>
 						</div>
@@ -129,7 +129,7 @@ require './include/check-if-added.php';
 								<?php if(check_if_added_to_cart(5)){ ?>
 									<a href="#" class="btn btn-success" disabled>Added to cart</a>
 								<?php }else{ ?>
-										<a href="cart-add.php?id=5" name="add" value="add" class"btn btn-primary">Add to cart</a>
+										<a href="cart-add.php?id=5" name="add" value="add" class="btn btn-primary">Add to cart</a>
 									<?php }
 								} ?>
 						</div>
@@ -148,7 +148,7 @@ require './include/check-if-added.php';
 								<?php if(check_if_added_to_cart(6)){ ?>
 									<a href="#" class="btn btn-success" disabled>Added to cart</a>
 								<?php }else{ ?>
-										<a href="cart-add.php?id=6" name="add" value="add" class"btn btn-primary">Add to cart</a>
+										<a href="cart-add.php?id=6" name="add" value="add" class="btn btn-primary">Add to cart</a>
 									<?php }
 								} ?>
 						</div>
@@ -168,7 +168,7 @@ require './include/check-if-added.php';
 								<?php if(check_if_added_to_cart(7)){ ?>
 									<a href="#" class="btn btn-success" disabled>Added to cart</a>
 								<?php }else{ ?>
-										<a href="cart-add.php?id=7" name="add" value="add" class"btn btn-primary">Add to cart</a>
+										<a href="cart-add.php?id=7" name="add" value="add" class="btn btn-primary">Add to cart</a>
 									<?php }
 								} ?>
 						</div>
@@ -188,7 +188,7 @@ require './include/check-if-added.php';
 								<?php if(check_if_added_to_cart(8)){ ?>
 									<a href="#" class="btn btn-success" disabled>Added to cart</a>
 								<?php }else{ ?>
-										<a href="cart-add.php?id=8" name="add" value="add" class"btn btn-primary">Add to cart</a>
+										<a href="cart-add.php?id=8" name="add" value="add" class="btn btn-primary">Add to cart</a>
 									<?php }
 								} ?>
 						</div>
@@ -210,7 +210,7 @@ require './include/check-if-added.php';
 								<?php if(check_if_added_to_cart(9)){ ?>
 									<a href="#" class="btn btn-success" disabled>Added to cart</a>
 								<?php }else{ ?>
-										<a href="cart-add.php?id=9" name="add" value="add" class"btn btn-primary">Add to cart</a>
+										<a href="cart-add.php?id=9" name="add" value="add" class="btn btn-primary">Add to cart</a>
 									<?php }
 								} ?>
 						</div>
@@ -229,7 +229,7 @@ require './include/check-if-added.php';
 								<?php if(check_if_added_to_cart(10)){ ?>
 									<a href="#" class="btn btn-success" disabled>Added to cart</a>
 								<?php }else{ ?>
-										<a href="cart-add.php?id=10" name="add" value="add" class"btn btn-primary">Add to cart</a>
+										<a href="cart-add.php?id=10" name="add" value="add" class="btn btn-primary">Add to cart</a>
 									<?php }
 								} ?>
 						</div>
@@ -248,7 +248,7 @@ require './include/check-if-added.php';
 								<?php if(check_if_added_to_cart(11)){ ?>
 									<a href="#" class="btn btn-success" disabled>Added to cart</a>
 								<?php }else{ ?>
-										<a href="cart-add.php?id=11" name="add" value="add" class"btn btn-primary">Add to cart</a>
+										<a href="cart-add.php?id=11" name="add" value="add" class="btn btn-primary">Add to cart</a>
 									<?php }
 								} ?>
 						</div>
@@ -267,7 +267,7 @@ require './include/check-if-added.php';
 								<?php if(check_if_added_to_cart(12)){ ?>
 									<a href="#" class="btn btn-success" disabled>Added to cart</a>
 								<?php }else{ ?>
-										<a href="cart-add.php?id=12" name="add" value="add" class"btn btn-primary">Add to cart</a>
+										<a href="cart-add.php?id=12" name="add" value="add" class="btn btn-primary">Add to cart</a>
 									<?php }
 								} ?>
 						</div>
